@@ -1,4 +1,4 @@
-﻿<Page 
+<Page 
     xmlns:Ribbon="using:DevExpress.UI.Xaml.Ribbon"
     xmlns:Xaml="using:DevExpress.UI.Xaml"
     x:Class="ColorSchemesDemo.MainPage"
