@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/MainViewModel.vb))
+* [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/RichEditEx.vb))
+* [ThemeFriendlyNameConverter.cs](./CS/ThemeFriendlyNameConverter.cs) (VB: [ThemeFriendlyNameConverter.vb](./VB/ThemeFriendlyNameConverter.vb))
+* [CustomColorScheme.cs](./CS/Themes/CustomColorScheme.cs) (VB: [CustomColorScheme.vb](./VB/Themes/CustomColorScheme.vb))
+* [generic.xaml](./CS/Themes/generic.xaml) (VB: [generic.xaml](./VB/Themes/generic.xaml))
+<!-- default file list end -->
 # How to define a custom Color Scheme for Windows 10 XAML controls
 
 
