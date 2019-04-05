@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/MainPage.xaml) (VB: [MainPage.xaml](./VB/MainPage.xaml))
 * [MainPage.xaml.cs](./CS/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/MainPage.xaml.vb))
 * [MainViewModel.cs](./CS/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/MainViewModel.vb))
 * [RichEditEx.cs](./CS/RichEditEx.cs) (VB: [RichEditEx.vb](./VB/RichEditEx.vb))
